@@ -1,6 +1,6 @@
 - Hi, I'm Nathan,
 - I’m interested in Embedded systems and IoT.
-- I’m currently learning Python and C. 
+- I’m currently learning Python, C, C++ and Node.js. 
 - I’m looking to collaborate on embedded systems, and device drivers rgiht now.
 - Email: nmfrench94@gmail.com
 
